@@ -1,0 +1,16 @@
+C:\Users\glaub\DIO\Cadastro_Empresas\Cadastro_Empresas\bin\Debug\net5.0\Cadastro_Empresas.exe
+C:\Users\glaub\DIO\Cadastro_Empresas\Cadastro_Empresas\bin\Debug\net5.0\Cadastro_Empresas.deps.json
+C:\Users\glaub\DIO\Cadastro_Empresas\Cadastro_Empresas\bin\Debug\net5.0\Cadastro_Empresas.runtimeconfig.json
+C:\Users\glaub\DIO\Cadastro_Empresas\Cadastro_Empresas\bin\Debug\net5.0\Cadastro_Empresas.runtimeconfig.dev.json
+C:\Users\glaub\DIO\Cadastro_Empresas\Cadastro_Empresas\bin\Debug\net5.0\Cadastro_Empresas.dll
+C:\Users\glaub\DIO\Cadastro_Empresas\Cadastro_Empresas\bin\Debug\net5.0\ref\Cadastro_Empresas.dll
+C:\Users\glaub\DIO\Cadastro_Empresas\Cadastro_Empresas\bin\Debug\net5.0\Cadastro_Empresas.pdb
+C:\Users\glaub\DIO\Cadastro_Empresas\Cadastro_Empresas\obj\Debug\net5.0\Cadastro_Empresas.csprojAssemblyReference.cache
+C:\Users\glaub\DIO\Cadastro_Empresas\Cadastro_Empresas\obj\Debug\net5.0\Cadastro_Empresas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glaub\DIO\Cadastro_Empresas\Cadastro_Empresas\obj\Debug\net5.0\Cadastro_Empresas.AssemblyInfoInputs.cache
+C:\Users\glaub\DIO\Cadastro_Empresas\Cadastro_Empresas\obj\Debug\net5.0\Cadastro_Empresas.AssemblyInfo.cs
+C:\Users\glaub\DIO\Cadastro_Empresas\Cadastro_Empresas\obj\Debug\net5.0\Cadastro_Empresas.csproj.CoreCompileInputs.cache
+C:\Users\glaub\DIO\Cadastro_Empresas\Cadastro_Empresas\obj\Debug\net5.0\Cadastro_Empresas.dll
+C:\Users\glaub\DIO\Cadastro_Empresas\Cadastro_Empresas\obj\Debug\net5.0\ref\Cadastro_Empresas.dll
+C:\Users\glaub\DIO\Cadastro_Empresas\Cadastro_Empresas\obj\Debug\net5.0\Cadastro_Empresas.pdb
+C:\Users\glaub\DIO\Cadastro_Empresas\Cadastro_Empresas\obj\Debug\net5.0\Cadastro_Empresas.genruntimeconfig.cache
